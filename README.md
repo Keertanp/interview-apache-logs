@@ -14,11 +14,15 @@ The important information which should be displayed is:
 
 Within the `example` directory are some sample log files which were generated with the `apache_log_stats.py` script located in the `scripts` directory. Along with the sample log files are the output of statistics based on those log files. Refer to these outputs to ensure the statistics you are parsing are correct.
 
-Additionally, in the `example` directory are real world log files, which are from the [Elasticsearch Example repo](https://github.com/elastic/examples/tree/master/Common%20Data%20Formats/apache_logs). 
+### Below are the steps to generate log file by script:
 
-### Generate Logs
+1. Clone this repo
+   https://github.com/Keertanp/interview-apache-logs.git
+   cd interview-apache-logs
 
-In order to generate your own logs, run below command for each and every logs files and create new output files respectively:
+2. Checkout branch `master`
+
+3. In order to generate logs, run below command for each and every logs files and create new output files respectively:
 e.g 
 
 python apache_log_stats.py ../
@@ -28,4 +32,6 @@ Generated output files are as below:
 example1new.out
 example2new.out
 real_apache_logs_new.out
+
+
 
