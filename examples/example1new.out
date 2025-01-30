@@ -1,0 +1,11 @@
+Total number of requests: 755
+Total data transmitted: 3840570715 bytes
+Most requested resource: /api/create (92 requests, 12.19%)
+Remote host with most requests: example.com (272 requests, 36.03%)
+
+HTTP Status Code Distribution:
+1xx: 20.66%
+2xx: 19.47%
+3xx: 18.81%
+4xx: 19.34%
+5xx: 21.72%

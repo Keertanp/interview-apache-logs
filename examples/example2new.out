@@ -1,0 +1,11 @@
+Total number of requests: 54
+Total data transmitted: 246745089 bytes
+Most requested resource: /Pics/3.jpg (8 requests, 14.81%)
+Remote host with most requests: 127.0.0.1 (22 requests, 40.74%)
+
+HTTP Status Code Distribution:
+1xx: 20.37%
+2xx: 16.67%
+3xx: 7.41%
+4xx: 35.19%
+5xx: 20.37%
