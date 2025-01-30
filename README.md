@@ -20,6 +20,12 @@ Additionally, in the `example` directory are real world log files, which are fro
 
 In order to generate your own logs, run below command for each and every logs files and create new output files respectively:
 e.g 
+
 python apache_log_stats.py ../
 examples/real_apache_logs.log -v --aggresive > ../examples/real_apache_logs_new.out
+
+Generated output files are as below:
+example1new.out
+example2new.out
+real_apache_logs_new.out
 
